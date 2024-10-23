@@ -1,4 +1,4 @@
-    updated on: 11th September 2024, Wednesday
+    updated on: 22nd October 2024, Tuesday
 
 <div align=center>
     <a href="https://github.com/SrijaAdhya12/Opreating-System">
@@ -121,4 +121,4 @@
 [line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
 [License]: https://github.com/SrijaAdhya12/Opreating-System/blob/main/LICENSE
 
-<!-- 11/09/24 -->
+<!-- 22/10/24 -->
